@@ -7,7 +7,7 @@
   
 - Name **Arsh**
 
-- Live in **Uttar Pradesh, India**
+- Lives in **Uttar Pradesh, India**
 
 - Good with **Python**
 
