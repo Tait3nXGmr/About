@@ -37,4 +37,6 @@
 -->
   
 ![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshCypherZ&count_private=true&theme=midnight-purple)  
+  
+![](https://komarev.com/ghpvc/?username=ArshCypherZ&style=for-the-badge)
 </div>
