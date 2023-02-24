@@ -26,7 +26,10 @@
   A multipurpose bot for anything with 69 commands!
 - 📘 [***Uptime Bot***](https://github.com/ArshCypherZ/BotUptime) <br/>
   Logs whether the bot is working or not.
+- 📓 [***Tic Tac Toe***](https://github.com/ArshCypherZ/tic-tac-toe) <br/>
+  Python based tic tac toe game.
 - 📙 ***All my other projects are private and for personal use only.***  
+  
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
