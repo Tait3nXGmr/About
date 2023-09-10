@@ -5,15 +5,19 @@
 <br/>
 <br/>
   
-- Name **Arsh**
+- Name **Arsh Javed**
 
-- Lives in **Uttar Pradesh, India**
+- Lives in **Dehradun, Uttrakhand, India**
 
 - Good with **Python**
+  
+- Know basics of **C**
+
+- Studying **Bachelor of Technology** 1st year
 
 - Have high experience with **Telegram API and Bots**
   
-- Familiar with **Ubuntu**
+- **Ubuntu** user
 
 - Understands Hindi and English
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
@@ -23,7 +27,7 @@
 <br/>
   
 - 📗 [***Himawari***](https://github.com/ArshCypherZ/HWBot) <br/>
-  A multipurpose bot for anything with 69 commands!
+  A multipurpose bot for anything with 69 commands! (Deprecated)
 - 📘 [***Uptime Bot***](https://github.com/ArshCypherZ/BotUptime) <br/>
   Logs whether the bot is working or not.
 - 📓 [***Tic Tac Toe***](https://github.com/ArshCypherZ/tic-tac-toe) <br/>
